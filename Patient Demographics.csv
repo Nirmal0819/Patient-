@@ -1,0 +1,81 @@
+patient_id,age,gender,ethnicity,comorbidities,medical_history,lifestyle,frequency_of_visits,insurance_coverage,income_level,vital_signs,blood_pressure,heart_rate,respiratory_rate,primary_diagnosis,hospital_admissions,medication_usage,outcome,satisfaction_score,health_behavior
+1,45,Female,Caucasian,Hypertension,Diabetes,Active,4,Private Insurance,High,Normal,120/80,72,18,Type 2 Diabetes,1,Metformin,Recovery,4,Non-Smoker,Occasional Exercise
+2,60,Male,African American,Obesity,Heart Disease,Sedentary,2,Medicare,Low,High,140/90,80,20,Osteoarthritis,2,Aspirin,Recovery,3,Smoker,No Exercise
+3,35,Female,Hispanic,Allergies,None,Active,1,Uninsured,Low,Normal,110/70,65,16,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+4,50,Male,Asian,Depression,Anxiety,Sedentary,3,Medicaid,Medium,Normal,130/85,75,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Occasional Exercise
+5,70,Female,Caucasian,Arthritis,Hypertension,Active,5,Private Insurance,High,High,150/95,85,22,Osteoporosis,3,Calcium Supplement,Recovery,4,Non-Smoker,Regular Exercise
+6,55,Male,African American,Diabetes,Heart Disease,Sedentary,4,Medicare,High,High,145/92,78,20,Coronary Artery Disease,2,Beta Blocker,Complication,2,Non-Smoker,No Exercise
+7,40,Female,Hispanic,None,None,Active,2,Uninsured,Low,Normal,115/75,70,18,Healthy,0,None,Recovery,5,Non-Smoker,Regular Exercise
+8,65,Male,Asian,Hypertension,Chronic Kidney Disease,Sedentary,3,Private Insurance,Medium,High,140/88,75,19,Chronic Kidney Disease,2,ACE Inhibitor,Recovery,3,Non-Smoker,No Exercise
+9,30,Female,Caucasian,Allergies,None,Active,1,Uninsured,Low,Normal,118/76,68,17,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+10,75,Male,African American,Arthritis,Hypertension,Sedentary,6,Medicare,High,Normal,130/80,80,21,Osteoarthritis,4,NSAIDs,Complication,2,Non-Smoker,No Exercise
+11,48,Female,Hispanic,Depression,Anxiety,Active,3,Private Insurance,Medium,Normal,125/82,70,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Regular Exercise
+12,58,Male,Asian,Diabetes,Heart Disease,Sedentary,4,Medicaid,Low,High,142/90,75,20,Coronary Artery Disease,2,Beta Blocker,Complication,2,Non-Smoker,Occasional Exercise
+13,42,Female,Caucasian,Hypertension,Diabetes,Active,2,Private Insurance,Medium,Normal,120/78,72,17,Type 2 Diabetes,1,Metformin,Recovery,4,Non-Smoker,Regular Exercise
+14,68,Male,African American,Obesity,Chronic Kidney Disease,Sedentary,5,Medicare,High,High,148/92,78,21,Chronic Kidney Disease,3,ACE Inhibitor,Complication,2,Smoker,No Exercise
+15,33,Female,Hispanic,Allergies,None,Active,1,Uninsured,Low,Normal,112/74,65,16,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+16,52,Male,Asian,Depression,Anxiety,Sedentary,3,Private Insurance,Medium,Normal,128/84,75,19,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Occasional Exercise
+17,62,Female,Caucasian,Arthritis,Hypertension,Active,4,Medicare,High,High,145/90,82,22,Osteoporosis,3,Calcium Supplement,Recovery,4,Smoker,Regular Exercise
+18,37,Male,African American,Diabetes,Heart Disease,Sedentary,2,Medicaid,Medium,High,138/88,74,18,Coronary Artery Disease,2,Beta Blocker,Recovery,3,Non-Smoker,No Exercise
+19,80,Female,Hispanic,Hypertension,Chronic Kidney Disease,Active,6,Private Insurance,High,Normal,135/85,76,20,Chronic Kidney Disease,4,ACE Inhibitor,Complication,2,Non-Smoker,Regular Exercise
+20,28,Male,Asian,Allergies,None,Active,1,Uninsured,Low,Normal,116/72,68,17,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+21,59,Female,Caucasian,Arthritis,Hypertension,Sedentary,5,Medicare,High,High,150/95,84,21,Osteoarthritis,3,NSAIDs,Recovery,4,Non-Smoker,No Exercise
+22,44,Male,African American,Depression,Anxiety,Active,3,Private Insurance,Medium,Normal,122/80,72,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Regular Exercise
+23,70,Female,Hispanic,Obesity,Heart Disease,Sedentary,4,Medicaid,Low,High,143/92,78,20,Coronary Artery Disease,2,Beta Blocker,Complication,2,Non-Smoker,Occasional Exercise
+24,39,Male,Asian,Hypertension,Diabetes,Active,2,Uninsured,Low,Normal,114/76,68,17,Type 2 Diabetes,1,Metformin,Recovery,4,Non-Smoker,Regular Exercise
+25,64,Female,Caucasian,Allergies,None,Active,3,Medicare,Medium,Normal,126/82,70,18,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+26,47,Male,African American,Obesity,Chronic Kidney Disease,Sedentary,4,Private Insurance,High,High,146/90,80,21,Chronic Kidney Disease,3,ACE Inhibitor,Complication,2,Non-Smoker,Occasional Exercise
+27,34,Female,Hispanic,Depression,Anxiety,Active,1,Uninsured,Low,Normal,117/75,65,16,Major Depressive Disorder,0,None,Recovery,5,Non-Smoker,Regular Exercise
+28,53,Male,Asian,Diabetes,Heart Disease,Sedentary,3,Medicaid,Medium,High,133/86,75,19,Coronary Artery Disease,2,Beta Blocker,Recovery,3,Non-Smoker,No Exercise
+29,69,Female,Caucasian,Arthritis,Hypertension,Active,5,Private Insurance,High,High,147/94,82,22,Osteoporosis,3,Calcium Supplement,Recovery,4,Smoker,No Exercise
+30,38,Male,African American,Hypertension,Chronic Kidney Disease,Sedentary,2,Medicare,Medium,Normal,119/77,70,18,Chronic Kidney Disease,1,ACE Inhibitor,Recovery,3,Non-Smoker,Occasional Exercise
+31,41,Female,Hispanic,Allergies,None,Active,2,Uninsured,Low,Normal,113/72,66,17,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+32,54,Male,Asian,Depression,Anxiety,Sedentary,3,Private Insurance,Medium,Normal,127/83,74,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Occasional Exercise
+33,66,Female,Caucasian,Hypertension,Diabetes,Active,5,Medicare,High,High,144/92,80,21,Type 2 Diabetes,3,Metformin,Complication,2,Non-Smoker,No Exercise
+34,36,Male,African American,Obesity,Heart Disease,Sedentary,2,Medicaid,Low,High,139/89,76,19,Osteoarthritis,1,Aspirin,Recovery,3,Non-Smoker,No Exercise
+35,71,Female,Hispanic,Allergies,None,Active,4,Uninsured,Low,Normal,121/78,68,17,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+36,46,Male,Asian,Diabetes,Heart Disease,Sedentary,3,Private Insurance,High,High,141/88,78,20,Coronary Artery Disease,2,Beta Blocker,Complication,2,Smoker,No Exercise
+37,31,Female,Caucasian,Hypertension,Chronic Kidney Disease,Active,1,Uninsured,Low,Normal,117/74,67,16,Chronic Kidney Disease,0,None,Recovery,5,Non-Smoker,Regular Exercise
+38,56,Male,African American,Arthritis,Hypertension,Sedentary,4,Medicare,High,Normal,134/86,73,19,Osteoarthritis,2,NSAIDs,Recovery,4,Non-Smoker,Occasional Exercise
+39,43,Female,Hispanic,Depression,Anxiety,Active,3,Private Insurance,Medium,Normal,124/81,71,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Regular Exercise
+40,61,Male,Asian,Obesity,Heart Disease,Sedentary,5,Medicaid,Low,High,149/94,82,21,Coronary Artery Disease,3,Beta Blocker,Complication,2,Non-Smoker,Occasional Exercise
+41,49,Female,Caucasian,Hypertension,Diabetes,Active,4,Private Insurance,High,Normal,123/79,72,17,Type 2 Diabetes,2,Metformin,Recovery,4,Non-Smoker,Regular Exercise
+42,57,Male,African American,Allergies,None,Sedentary,3,Medicare,Medium,Normal,129/85,75,19,Allergic Rhinitis,1,Non-Sedating Antihistamine,Recovery,3,Non-Smoker,No Exercise
+43,37,Female,Hispanic,Arthritis,Hypertension,Active,2,Uninsured,Low,Normal,115/76,69,17,Osteoarthritis,1,Acetaminophen,Recovery,5,Non-Smoker,Regular Exercise
+44,72,Male,Asian,Depression,Anxiety,Sedentary,6,Private Insurance,High,High,146/91,79,20,Major Depressive Disorder,3,SSRI,Complication,2,Smoker,No Exercise
+45,32,Female,Caucasian,Hypertension,Diabetes,Active,1,Uninsured,Low,Normal,118/75,66,16,Type 2 Diabetes,0,None,Recovery,5,Non-Smoker,Regular Exercise
+46,55,Male,African American,Obesity,Chronic Kidney Disease,Sedentary,5,Medicare,High,High,147/93,81,22,Chronic Kidney Disease,3,ACE Inhibitor,Complication,2,Smoker,Occasional Exercise
+47,33,Female,Hispanic,Allergies,None,Active,1,Uninsured,Low,Normal,114/73,65,16,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+48,58,Male,Asian,Depression,Anxiety,Sedentary,4,Private Insurance,Medium,Normal,130/84,74,18,Major Depressive Disorder,2,SSRI,Recovery,4,Non-Smoker,Occasional Exercise
+49,73,Female,Caucasian,Hypertension,Chronic Kidney Disease,Active,6,Medicare,High,Normal,136/88,77,20,Chronic Kidney Disease,4,ACE Inhibitor,Complication,2,Non-Smoker,Regular Exercise
+50,29,Male,African American,Arthritis,Hypertension,Sedentary,2,Medicaid,Medium,High,137/87,76,19,Osteoarthritis,1,NSAIDs,Recovery,3,Non-Smoker,No Exercise
+51,44,Female,Hispanic,Allergies,None,Active,3,Uninsured,Low,Normal,116/74,67,17,Allergic Rhinitis,1,Non-Sedating Antihistamine,Recovery,5,Non-Smoker,Regular Exercise
+52,63,Male,Asian,Diabetes,Heart Disease,Sedentary,4,Private Insurance,High,High,143/90,79,21,Coronary Artery Disease,2,Beta Blocker,Complication,2,Non-Smoker,Occasional Exercise
+53,39,Female,Caucasian,Hypertension,Diabetes,Active,2,Uninsured,Low,Normal,119/77,68,18,Type 2 Diabetes,1,Metformin,Recovery,4,Non-Smoker,Regular Exercise
+54,65,Male,African American,Obesity,Chronic Kidney Disease,Sedentary,5,Medicare,High,High,148/92,80,22,Chronic Kidney Disease,3,ACE Inhibitor,Complication,2,Smoker,No Exercise
+55,30,Female,Hispanic,Allergies,None,Active,1,Uninsured,Low,Normal,115/75,66,16,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+56,45,Male,Asian,Depression,Anxiety,Sedentary,3,Private Insurance,Medium,Normal,125/82,71,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Regular Exercise
+57,68,Female,Caucasian,Arthritis,Hypertension,Active,4,Medicare,High,High,145/90,82,21,Osteoporosis,2,Calcium Supplement,Recovery,4,Smoker,No Exercise
+58,42,Male,African American,Diabetes,Heart Disease,Sedentary,2,Medicaid,Low,High,138/88,74,18,Coronary Artery Disease,1,Beta Blocker,Recovery,3,Non-Smoker,Occasional Exercise
+59,77,Female,Hispanic,Hypertension,Chronic Kidney Disease,Active,6,Private Insurance,High,Normal,135/85,76,20,Chronic Kidney Disease,4,ACE Inhibitor,Complication,2,Non-Smoker,Regular Exercise
+60,34,Male,Asian,Allergies,None,Active,1,Uninsured,Low,Normal,116/72,67,17,Allergic Rhinitis,0,None,Recovery,5,Non-Smoker,Regular Exercise
+61,48,Female,Caucasian,Arthritis,Hypertension,Active,3,Private Insurance,Medium,Normal,125/82,70,18,Osteoarthritis,1,NSAIDs,Recovery,4,Non-Smoker,Regular Exercise
+62,55,Male,African American,Depression,Anxiety,Sedentary,4,Medicare,High,Normal,130/85,75,19,Major Depressive Disorder,2,SSRI,Recovery,3,Non-Smoker,No Exercise
+63,67,Female,Hispanic,Hypertension,Chronic Kidney Disease,Active,5,Medicaid,High,High,146/91,78,20,Chronic Kidney Disease,3,ACE Inhibitor,Complication,2,Non-Smoker,Occasional Exercise
+64,35,Male,Asian,Allergies,None,Active,2,Uninsured,Low,Normal,115/76,68,17,Allergic Rhinitis,1,Non-Sedating Antihistamine,Recovery,5,Non-Smoker,Regular Exercise
+65,50,Female,Caucasian,Diabetes,Heart Disease,Sedentary,4,Private Insurance,High,High,143/90,80,21,Coronary Artery Disease,2,Beta Blocker,Complication,2,Non-Smoker,Occasional Exercise
+66,37,Male,African American,Hypertension,Chronic Kidney Disease,Sedentary,2,Medicaid,Medium,Normal,120/78,72,18,Chronic Kidney Disease,1,ACE Inhibitor,Recovery,4,Non-Smoker,No Exercise
+67,72,Female,Hispanic,Arthritis,Hypertension,Active,6,Private Insurance,High,High,147/93,81,22,Osteoarthritis,4,NSAIDs,Complication,2,Smoker,No Exercise
+68,41,Male,Asian,Depression,Anxiety,Sedentary,3,Uninsured,Low,Normal,124/81,71,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Regular Exercise
+69,53,Female,Caucasian,Allergies,None,Active,3,Medicare,Medium,Normal,128/84,74,19,Allergic Rhinitis,1,Non-Sedating Antihistamine,Recovery,3,Non-Smoker,No Exercise
+70,66,Male,African American,Diabetes,Heart Disease,Sedentary,5,Medicaid,High,High,145/92,78,20,Coronary Artery Disease,3,Beta Blocker,Complication,2,Smoker,No Exercise
+71,44,Female,Hispanic,Hypertension,Chronic Kidney Disease,Active,4,Private Insurance,High,Normal,122/80,72,18,Chronic Kidney Disease,2,ACE Inhibitor,Recovery,4,Non-Smoker,Regular Exercise
+72,59,Male,Asian,Obesity,Heart Disease,Sedentary,5,Medicare,Low,High,149/94,82,21,Coronary Artery Disease,3,Beta Blocker,Complication,2,Smoker,Occasional Exercise
+73,38,Female,Caucasian,Allergies,None,Active,2,Uninsured,Low,Normal,116/74,67,17,Allergic Rhinitis,1,Non-Sedating Antihistamine,Recovery,5,Non-Smoker,Regular Exercise
+74,61,Male,African American,Depression,Anxiety,Sedentary,4,Private Insurance,Medium,Normal,130/84,74,19,Major Depressive Disorder,2,SSRI,Recovery,4,Non-Smoker,Occasional Exercise
+75,46,Female,Hispanic,Arthritis,Hypertension,Active,3,Medicare,High,High,144/90,80,21,Osteoarthritis,2,NSAIDs,Recovery,3,Non-Smoker,No Exercise
+76,31,Male,Asian,Diabetes,Heart Disease,Sedentary,2,Medicaid,Low,High,138/88,74,18,Coronary Artery Disease,1,Beta Blocker,Recovery,3,Non-Smoker,Occasional Exercise
+77,69,Female,Caucasian,Hypertension,Chronic Kidney Disease,Active,5,Private Insurance,High,Normal,136/88,77,20,Chronic Kidney Disease,4,ACE Inhibitor,Complication,2,Non-Smoker,Regular Exercise
+78,40,Male,African American,Allergies,None,Active,2,Uninsured,Low,Normal,118/75,66,16,Allergic Rhinitis,1,Non-Sedating Antihistamine,Recovery,5,Non-Smoker,Regular Exercise
+79,54,Female,Hispanic,Depression,Anxiety,Sedentary,3,Private Insurance,Medium,Normal,126/82,70,18,Major Depressive Disorder,1,SSRI,Recovery,4,Non-Smoker,Regular Exercise
+80,64,Male,Asian,Hypertension,Chronic Kidney Disease,Sedentary,4,Medicaid,Medium,High,143/90,79,21,Chronic Kidney Disease,2,ACE Inhibitor,Complication,2,Smoker,No Exercise
